@@ -1,4 +1,4 @@
-FROM ubuntu 16.04
+FROM ubuntu:16.04
 PAINTAINER Szabo Krisztian <szabok857@gmail.com>
 
 RUN apt-get -y updata \
